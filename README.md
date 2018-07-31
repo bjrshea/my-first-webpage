@@ -17,6 +17,4 @@ This website is my first attempt at web development. It shows a little bit of my
 
 ### License
 
-*{Determine the license under which this application can be used.  See below for more details on licensing.}*
-
 Copyright (c) 2018 **Brendan Shea & Liza Tennis**
